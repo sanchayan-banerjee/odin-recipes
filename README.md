@@ -1,6 +1,8 @@
 # odin-recipes
 Made my first ever project "Odin Recipes" entirely with HTML(Hyper Text Markup Language) while learning from the Odin Project.
 
+Check out "Odin Recipes" through the link:- sanchayan-banerjee.github.io/odin-recipes
+
 I learnt about the following things:-
 
        1. HTML Boilerplate.
