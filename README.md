@@ -1,7 +1,7 @@
 # odin-recipes
 Made my first ever project "Odin Recipes" entirely with HTML(Hyper Text Markup Language) while learning from the Odin Project.
 
-Check out "Odin Recipes" through the link:-<https://sanchayan-banerjee.github.io/odin-recipes>
+Check out "Odin Recipes" through the link:-< https://sanchayan-banerjee.github.io/odin-recipes>
 
 
 I learnt about the following things:-
